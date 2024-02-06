@@ -7,7 +7,7 @@ import logging
 logging.basicConfig(level=logging.INFO,format = '[%(asctime)s]: %(message)s:')
 
 
-package_name = "ASL_alphabet"
+package_name = "AI_Solution"
 
 list_of_files = [
     ".github/workflows/.gitkeep", #for empty folder just create .gitkeep file so that it will stored in gitub
