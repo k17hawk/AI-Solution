@@ -11,3 +11,9 @@ pdfminer
 replicate
 streamlit_option_menu
 streamlit_tags
+
+pytest==7.1.3
+tox==4.4.6
+black==23.1.0
+flake8==6.0.0
+mypy==1.0.1
